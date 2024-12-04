@@ -1,0 +1,144 @@
+C:\Users\PC02\source\repos\Practica_Semana03\Practica_Semana03\bin\Debug\Practica_Semana03.exe.config
+C:\Users\PC02\source\repos\Practica_Semana03\Practica_Semana03\bin\Debug\Practica_Semana03.exe
+C:\Users\PC02\source\repos\Practica_Semana03\Practica_Semana03\bin\Debug\Practica_Semana03.pdb
+C:\Users\PC02\source\repos\Practica_Semana03\Practica_Semana03\bin\Debug\Capa_Presentacion.dll
+C:\Users\PC02\source\repos\Practica_Semana03\Practica_Semana03\bin\Debug\Capa_Entidades.dll
+C:\Users\PC02\source\repos\Practica_Semana03\Practica_Semana03\bin\Debug\Capa_Negocio.dll
+C:\Users\PC02\source\repos\Practica_Semana03\Practica_Semana03\bin\Debug\Capa_Datos.dll
+C:\Users\PC02\source\repos\Practica_Semana03\Practica_Semana03\bin\Debug\Capa_Presentacion.pdb
+C:\Users\PC02\source\repos\Practica_Semana03\Practica_Semana03\bin\Debug\Capa_Entidades.pdb
+C:\Users\PC02\source\repos\Practica_Semana03\Practica_Semana03\bin\Debug\Capa_Negocio.pdb
+C:\Users\PC02\source\repos\Practica_Semana03\Practica_Semana03\bin\Debug\Capa_Datos.pdb
+C:\Users\PC02\source\repos\Practica_Semana03\Practica_Semana03\obj\Debug\Practica_Semana03.csproj.AssemblyReference.cache
+C:\Users\PC02\source\repos\Practica_Semana03\Practica_Semana03\obj\Debug\Practica_Semana03.Properties.Resources.resources
+C:\Users\PC02\source\repos\Practica_Semana03\Practica_Semana03\obj\Debug\Practica_Semana03.csproj.GenerateResource.cache
+C:\Users\PC02\source\repos\Practica_Semana03\Practica_Semana03\obj\Debug\Practica_Semana03.csproj.CoreCompileInputs.cache
+C:\Users\PC02\source\repos\Practica_Semana03\Practica_Semana03\obj\Debug\Practica.61C01D09.Up2Date
+C:\Users\PC02\source\repos\Practica_Semana03\Practica_Semana03\obj\Debug\Practica_Semana03.exe
+C:\Users\PC02\source\repos\Practica_Semana03\Practica_Semana03\obj\Debug\Practica_Semana03.pdb
+C:\Users\PC02\Desktop\Practica_Semana03\Practica_Semana03\bin\Debug\Practica_Semana03.exe.config
+C:\Users\PC02\Desktop\Practica_Semana03\Practica_Semana03\bin\Debug\Practica_Semana03.exe
+C:\Users\PC02\Desktop\Practica_Semana03\Practica_Semana03\bin\Debug\Practica_Semana03.pdb
+C:\Users\PC02\Desktop\Practica_Semana03\Practica_Semana03\bin\Debug\Capa_Presentacion.dll
+C:\Users\PC02\Desktop\Practica_Semana03\Practica_Semana03\bin\Debug\Capa_Entidades.dll
+C:\Users\PC02\Desktop\Practica_Semana03\Practica_Semana03\bin\Debug\Capa_Negocio.dll
+C:\Users\PC02\Desktop\Practica_Semana03\Practica_Semana03\bin\Debug\Capa_Datos.dll
+C:\Users\PC02\Desktop\Practica_Semana03\Practica_Semana03\bin\Debug\Capa_Presentacion.pdb
+C:\Users\PC02\Desktop\Practica_Semana03\Practica_Semana03\bin\Debug\Capa_Entidades.pdb
+C:\Users\PC02\Desktop\Practica_Semana03\Practica_Semana03\bin\Debug\Capa_Negocio.pdb
+C:\Users\PC02\Desktop\Practica_Semana03\Practica_Semana03\bin\Debug\Capa_Datos.pdb
+C:\Users\PC02\Desktop\Practica_Semana03\Practica_Semana03\obj\Debug\Practica_Semana03.csproj.AssemblyReference.cache
+C:\Users\PC02\Desktop\Practica_Semana03\Practica_Semana03\obj\Debug\Practica_Semana03.Properties.Resources.resources
+C:\Users\PC02\Desktop\Practica_Semana03\Practica_Semana03\obj\Debug\Practica_Semana03.csproj.GenerateResource.cache
+C:\Users\PC02\Desktop\Practica_Semana03\Practica_Semana03\obj\Debug\Practica_Semana03.csproj.CoreCompileInputs.cache
+C:\Users\PC02\Desktop\Practica_Semana03\Practica_Semana03\obj\Debug\Practica.61C01D09.Up2Date
+C:\Users\PC02\Desktop\Practica_Semana03\Practica_Semana03\obj\Debug\Practica_Semana03.exe
+C:\Users\PC02\Desktop\Practica_Semana03\Practica_Semana03\obj\Debug\Practica_Semana03.pdb
+E:\C#\Practica_Semana03\Practica_Semana03\bin\Debug\Practica_Semana03.exe.config
+E:\C#\Practica_Semana03\Practica_Semana03\bin\Debug\Practica_Semana03.exe
+E:\C#\Practica_Semana03\Practica_Semana03\bin\Debug\Practica_Semana03.pdb
+E:\C#\Practica_Semana03\Practica_Semana03\bin\Debug\Capa_Presentacion.dll
+E:\C#\Practica_Semana03\Practica_Semana03\bin\Debug\Capa_Entidades.dll
+E:\C#\Practica_Semana03\Practica_Semana03\bin\Debug\Capa_Negocio.dll
+E:\C#\Practica_Semana03\Practica_Semana03\bin\Debug\Capa_Datos.dll
+E:\C#\Practica_Semana03\Practica_Semana03\bin\Debug\Capa_Presentacion.pdb
+E:\C#\Practica_Semana03\Practica_Semana03\bin\Debug\Capa_Entidades.pdb
+E:\C#\Practica_Semana03\Practica_Semana03\bin\Debug\Capa_Negocio.pdb
+E:\C#\Practica_Semana03\Practica_Semana03\bin\Debug\Capa_Datos.pdb
+E:\C#\Practica_Semana03\Practica_Semana03\obj\Debug\Practica_Semana03.csproj.AssemblyReference.cache
+E:\C#\Practica_Semana03\Practica_Semana03\obj\Debug\Practica_Semana03.Properties.Resources.resources
+E:\C#\Practica_Semana03\Practica_Semana03\obj\Debug\Practica_Semana03.csproj.GenerateResource.cache
+E:\C#\Practica_Semana03\Practica_Semana03\obj\Debug\Practica_Semana03.csproj.CoreCompileInputs.cache
+E:\C#\Practica_Semana03\Practica_Semana03\obj\Debug\Practica.61C01D09.Up2Date
+E:\C#\Practica_Semana03\Practica_Semana03\obj\Debug\Practica_Semana03.exe
+E:\C#\Practica_Semana03\Practica_Semana03\obj\Debug\Practica_Semana03.pdb
+C:\Users\PC02\Desktop\C#\Practica_Semana03\Practica_Semana03\bin\Debug\Practica_Semana03.exe.config
+C:\Users\PC02\Desktop\C#\Practica_Semana03\Practica_Semana03\bin\Debug\Practica_Semana03.exe
+C:\Users\PC02\Desktop\C#\Practica_Semana03\Practica_Semana03\bin\Debug\Practica_Semana03.pdb
+C:\Users\PC02\Desktop\C#\Practica_Semana03\Practica_Semana03\bin\Debug\Capa_Presentacion.dll
+C:\Users\PC02\Desktop\C#\Practica_Semana03\Practica_Semana03\bin\Debug\Capa_Entidades.dll
+C:\Users\PC02\Desktop\C#\Practica_Semana03\Practica_Semana03\bin\Debug\Capa_Negocio.dll
+C:\Users\PC02\Desktop\C#\Practica_Semana03\Practica_Semana03\bin\Debug\Capa_Datos.dll
+C:\Users\PC02\Desktop\C#\Practica_Semana03\Practica_Semana03\bin\Debug\Capa_Presentacion.pdb
+C:\Users\PC02\Desktop\C#\Practica_Semana03\Practica_Semana03\bin\Debug\Capa_Entidades.pdb
+C:\Users\PC02\Desktop\C#\Practica_Semana03\Practica_Semana03\bin\Debug\Capa_Negocio.pdb
+C:\Users\PC02\Desktop\C#\Practica_Semana03\Practica_Semana03\bin\Debug\Capa_Datos.pdb
+C:\Users\PC02\Desktop\C#\Practica_Semana03\Practica_Semana03\obj\Debug\Practica_Semana03.csproj.AssemblyReference.cache
+C:\Users\PC02\Desktop\C#\Practica_Semana03\Practica_Semana03\obj\Debug\Practica_Semana03.Properties.Resources.resources
+C:\Users\PC02\Desktop\C#\Practica_Semana03\Practica_Semana03\obj\Debug\Practica_Semana03.csproj.GenerateResource.cache
+C:\Users\PC02\Desktop\C#\Practica_Semana03\Practica_Semana03\obj\Debug\Practica_Semana03.csproj.CoreCompileInputs.cache
+C:\Users\PC02\Desktop\C#\Practica_Semana03\Practica_Semana03\obj\Debug\Practica.61C01D09.Up2Date
+C:\Users\PC02\Desktop\C#\Practica_Semana03\Practica_Semana03\obj\Debug\Practica_Semana03.exe
+C:\Users\PC02\Desktop\C#\Practica_Semana03\Practica_Semana03\obj\Debug\Practica_Semana03.pdb
+C:\Users\Luis\Desktop\Luis\Ejercicios\C# IV\C#\Practica_Semana03\Practica_Semana03\bin\Debug\Practica_Semana03.exe.config
+C:\Users\Luis\Desktop\Luis\Ejercicios\C# IV\C#\Practica_Semana03\Practica_Semana03\bin\Debug\Practica_Semana03.exe
+C:\Users\Luis\Desktop\Luis\Ejercicios\C# IV\C#\Practica_Semana03\Practica_Semana03\bin\Debug\Practica_Semana03.pdb
+C:\Users\Luis\Desktop\Luis\Ejercicios\C# IV\C#\Practica_Semana03\Practica_Semana03\bin\Debug\Capa_Presentacion.dll
+C:\Users\Luis\Desktop\Luis\Ejercicios\C# IV\C#\Practica_Semana03\Practica_Semana03\bin\Debug\Capa_Entidades.dll
+C:\Users\Luis\Desktop\Luis\Ejercicios\C# IV\C#\Practica_Semana03\Practica_Semana03\bin\Debug\Capa_Negocio.dll
+C:\Users\Luis\Desktop\Luis\Ejercicios\C# IV\C#\Practica_Semana03\Practica_Semana03\bin\Debug\Capa_Datos.dll
+C:\Users\Luis\Desktop\Luis\Ejercicios\C# IV\C#\Practica_Semana03\Practica_Semana03\bin\Debug\Capa_Presentacion.pdb
+C:\Users\Luis\Desktop\Luis\Ejercicios\C# IV\C#\Practica_Semana03\Practica_Semana03\bin\Debug\Capa_Entidades.pdb
+C:\Users\Luis\Desktop\Luis\Ejercicios\C# IV\C#\Practica_Semana03\Practica_Semana03\bin\Debug\Capa_Negocio.pdb
+C:\Users\Luis\Desktop\Luis\Ejercicios\C# IV\C#\Practica_Semana03\Practica_Semana03\bin\Debug\Capa_Datos.pdb
+C:\Users\Luis\Desktop\Luis\Ejercicios\C# IV\C#\Practica_Semana03\Practica_Semana03\obj\Debug\Practica_Semana03.csproj.AssemblyReference.cache
+C:\Users\Luis\Desktop\Luis\Ejercicios\C# IV\C#\Practica_Semana03\Practica_Semana03\obj\Debug\Practica_Semana03.Properties.Resources.resources
+C:\Users\Luis\Desktop\Luis\Ejercicios\C# IV\C#\Practica_Semana03\Practica_Semana03\obj\Debug\Practica_Semana03.csproj.GenerateResource.cache
+C:\Users\Luis\Desktop\Luis\Ejercicios\C# IV\C#\Practica_Semana03\Practica_Semana03\obj\Debug\Practica_Semana03.csproj.CoreCompileInputs.cache
+C:\Users\Luis\Desktop\Luis\Ejercicios\C# IV\C#\Practica_Semana03\Practica_Semana03\obj\Debug\Practica.61C01D09.Up2Date
+C:\Users\Luis\Desktop\Luis\Ejercicios\C# IV\C#\Practica_Semana03\Practica_Semana03\obj\Debug\Practica_Semana03.exe
+C:\Users\Luis\Desktop\Luis\Ejercicios\C# IV\C#\Practica_Semana03\Practica_Semana03\obj\Debug\Practica_Semana03.pdb
+E:\C# IV\C#\Practica_Semana03\Practica_Semana03\bin\Debug\Practica_Semana03.exe.config
+E:\C# IV\C#\Practica_Semana03\Practica_Semana03\bin\Debug\Practica_Semana03.exe
+E:\C# IV\C#\Practica_Semana03\Practica_Semana03\bin\Debug\Practica_Semana03.pdb
+E:\C# IV\C#\Practica_Semana03\Practica_Semana03\bin\Debug\Capa_Presentacion.dll
+E:\C# IV\C#\Practica_Semana03\Practica_Semana03\bin\Debug\Capa_Entidades.dll
+E:\C# IV\C#\Practica_Semana03\Practica_Semana03\bin\Debug\Capa_Negocio.dll
+E:\C# IV\C#\Practica_Semana03\Practica_Semana03\bin\Debug\Capa_Datos.dll
+E:\C# IV\C#\Practica_Semana03\Practica_Semana03\bin\Debug\Capa_Presentacion.pdb
+E:\C# IV\C#\Practica_Semana03\Practica_Semana03\bin\Debug\Capa_Entidades.pdb
+E:\C# IV\C#\Practica_Semana03\Practica_Semana03\bin\Debug\Capa_Negocio.pdb
+E:\C# IV\C#\Practica_Semana03\Practica_Semana03\bin\Debug\Capa_Datos.pdb
+E:\C# IV\C#\Practica_Semana03\Practica_Semana03\obj\Debug\Practica_Semana03.csproj.AssemblyReference.cache
+E:\C# IV\C#\Practica_Semana03\Practica_Semana03\obj\Debug\Practica_Semana03.Properties.Resources.resources
+E:\C# IV\C#\Practica_Semana03\Practica_Semana03\obj\Debug\Practica_Semana03.csproj.GenerateResource.cache
+E:\C# IV\C#\Practica_Semana03\Practica_Semana03\obj\Debug\Practica_Semana03.csproj.CoreCompileInputs.cache
+E:\C# IV\C#\Practica_Semana03\Practica_Semana03\obj\Debug\Practica.61C01D09.Up2Date
+E:\C# IV\C#\Practica_Semana03\Practica_Semana03\obj\Debug\Practica_Semana03.exe
+E:\C# IV\C#\Practica_Semana03\Practica_Semana03\obj\Debug\Practica_Semana03.pdb
+F:\C# IV\C#\Practica_Semana03\Practica_Semana03\bin\Debug\Practica_Semana03.exe.config
+F:\C# IV\C#\Practica_Semana03\Practica_Semana03\bin\Debug\Practica_Semana03.exe
+F:\C# IV\C#\Practica_Semana03\Practica_Semana03\bin\Debug\Practica_Semana03.pdb
+F:\C# IV\C#\Practica_Semana03\Practica_Semana03\bin\Debug\Capa_Presentacion.dll
+F:\C# IV\C#\Practica_Semana03\Practica_Semana03\bin\Debug\Capa_Entidades.dll
+F:\C# IV\C#\Practica_Semana03\Practica_Semana03\bin\Debug\Capa_Negocio.dll
+F:\C# IV\C#\Practica_Semana03\Practica_Semana03\bin\Debug\Capa_Datos.dll
+F:\C# IV\C#\Practica_Semana03\Practica_Semana03\bin\Debug\Capa_Presentacion.pdb
+F:\C# IV\C#\Practica_Semana03\Practica_Semana03\bin\Debug\Capa_Entidades.pdb
+F:\C# IV\C#\Practica_Semana03\Practica_Semana03\bin\Debug\Capa_Negocio.pdb
+F:\C# IV\C#\Practica_Semana03\Practica_Semana03\bin\Debug\Capa_Datos.pdb
+F:\C# IV\C#\Practica_Semana03\Practica_Semana03\obj\Debug\Practica_Semana03.csproj.AssemblyReference.cache
+F:\C# IV\C#\Practica_Semana03\Practica_Semana03\obj\Debug\Practica_Semana03.Properties.Resources.resources
+F:\C# IV\C#\Practica_Semana03\Practica_Semana03\obj\Debug\Practica_Semana03.csproj.GenerateResource.cache
+F:\C# IV\C#\Practica_Semana03\Practica_Semana03\obj\Debug\Practica_Semana03.csproj.CoreCompileInputs.cache
+F:\C# IV\C#\Practica_Semana03\Practica_Semana03\obj\Debug\Practica.61C01D09.Up2Date
+F:\C# IV\C#\Practica_Semana03\Practica_Semana03\obj\Debug\Practica_Semana03.exe
+F:\C# IV\C#\Practica_Semana03\Practica_Semana03\obj\Debug\Practica_Semana03.pdb
+C:\Users\Luis\Desktop\Luis\Tareas\2024\C# (13-10-2024)\Practica_Semana03\Practica_Semana03\bin\Debug\Practica_Semana03.exe.config
+C:\Users\Luis\Desktop\Luis\Tareas\2024\C# (13-10-2024)\Practica_Semana03\Practica_Semana03\bin\Debug\Practica_Semana03.exe
+C:\Users\Luis\Desktop\Luis\Tareas\2024\C# (13-10-2024)\Practica_Semana03\Practica_Semana03\bin\Debug\Practica_Semana03.pdb
+C:\Users\Luis\Desktop\Luis\Tareas\2024\C# (13-10-2024)\Practica_Semana03\Practica_Semana03\bin\Debug\Capa_Presentacion.dll
+C:\Users\Luis\Desktop\Luis\Tareas\2024\C# (13-10-2024)\Practica_Semana03\Practica_Semana03\bin\Debug\Capa_Entidades.dll
+C:\Users\Luis\Desktop\Luis\Tareas\2024\C# (13-10-2024)\Practica_Semana03\Practica_Semana03\bin\Debug\Capa_Negocio.dll
+C:\Users\Luis\Desktop\Luis\Tareas\2024\C# (13-10-2024)\Practica_Semana03\Practica_Semana03\bin\Debug\Capa_Datos.dll
+C:\Users\Luis\Desktop\Luis\Tareas\2024\C# (13-10-2024)\Practica_Semana03\Practica_Semana03\bin\Debug\Capa_Presentacion.pdb
+C:\Users\Luis\Desktop\Luis\Tareas\2024\C# (13-10-2024)\Practica_Semana03\Practica_Semana03\bin\Debug\Capa_Entidades.pdb
+C:\Users\Luis\Desktop\Luis\Tareas\2024\C# (13-10-2024)\Practica_Semana03\Practica_Semana03\bin\Debug\Capa_Negocio.pdb
+C:\Users\Luis\Desktop\Luis\Tareas\2024\C# (13-10-2024)\Practica_Semana03\Practica_Semana03\bin\Debug\Capa_Datos.pdb
+C:\Users\Luis\Desktop\Luis\Tareas\2024\C# (13-10-2024)\Practica_Semana03\Practica_Semana03\obj\Debug\Practica_Semana03.csproj.AssemblyReference.cache
+C:\Users\Luis\Desktop\Luis\Tareas\2024\C# (13-10-2024)\Practica_Semana03\Practica_Semana03\obj\Debug\Practica_Semana03.Properties.Resources.resources
+C:\Users\Luis\Desktop\Luis\Tareas\2024\C# (13-10-2024)\Practica_Semana03\Practica_Semana03\obj\Debug\Practica_Semana03.csproj.GenerateResource.cache
+C:\Users\Luis\Desktop\Luis\Tareas\2024\C# (13-10-2024)\Practica_Semana03\Practica_Semana03\obj\Debug\Practica_Semana03.csproj.CoreCompileInputs.cache
+C:\Users\Luis\Desktop\Luis\Tareas\2024\C# (13-10-2024)\Practica_Semana03\Practica_Semana03\obj\Debug\Practica.61C01D09.Up2Date
+C:\Users\Luis\Desktop\Luis\Tareas\2024\C# (13-10-2024)\Practica_Semana03\Practica_Semana03\obj\Debug\Practica_Semana03.exe
+C:\Users\Luis\Desktop\Luis\Tareas\2024\C# (13-10-2024)\Practica_Semana03\Practica_Semana03\obj\Debug\Practica_Semana03.pdb

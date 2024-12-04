@@ -1,0 +1,88 @@
+C:\Users\PC02\source\repos\Practica_Semana03\Capa_Negocio\bin\Debug\Capa_Negocio.dll
+C:\Users\PC02\source\repos\Practica_Semana03\Capa_Negocio\bin\Debug\Capa_Negocio.pdb
+C:\Users\PC02\source\repos\Practica_Semana03\Capa_Negocio\bin\Debug\Capa_Datos.dll
+C:\Users\PC02\source\repos\Practica_Semana03\Capa_Negocio\bin\Debug\Capa_Entidades.dll
+C:\Users\PC02\source\repos\Practica_Semana03\Capa_Negocio\bin\Debug\Capa_Datos.pdb
+C:\Users\PC02\source\repos\Practica_Semana03\Capa_Negocio\bin\Debug\Capa_Entidades.pdb
+C:\Users\PC02\source\repos\Practica_Semana03\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.AssemblyReference.cache
+C:\Users\PC02\source\repos\Practica_Semana03\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.CoreCompileInputs.cache
+C:\Users\PC02\source\repos\Practica_Semana03\Capa_Negocio\obj\Debug\Capa_Neg.64FC8661.Up2Date
+C:\Users\PC02\source\repos\Practica_Semana03\Capa_Negocio\obj\Debug\Capa_Negocio.dll
+C:\Users\PC02\source\repos\Practica_Semana03\Capa_Negocio\obj\Debug\Capa_Negocio.pdb
+C:\Users\PC02\Desktop\Practica_Semana03\Capa_Negocio\bin\Debug\Capa_Negocio.dll
+C:\Users\PC02\Desktop\Practica_Semana03\Capa_Negocio\bin\Debug\Capa_Negocio.pdb
+C:\Users\PC02\Desktop\Practica_Semana03\Capa_Negocio\bin\Debug\Capa_Datos.dll
+C:\Users\PC02\Desktop\Practica_Semana03\Capa_Negocio\bin\Debug\Capa_Entidades.dll
+C:\Users\PC02\Desktop\Practica_Semana03\Capa_Negocio\bin\Debug\Capa_Datos.pdb
+C:\Users\PC02\Desktop\Practica_Semana03\Capa_Negocio\bin\Debug\Capa_Entidades.pdb
+C:\Users\PC02\Desktop\Practica_Semana03\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.AssemblyReference.cache
+C:\Users\PC02\Desktop\Practica_Semana03\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.CoreCompileInputs.cache
+C:\Users\PC02\Desktop\Practica_Semana03\Capa_Negocio\obj\Debug\Capa_Neg.64FC8661.Up2Date
+C:\Users\PC02\Desktop\Practica_Semana03\Capa_Negocio\obj\Debug\Capa_Negocio.dll
+C:\Users\PC02\Desktop\Practica_Semana03\Capa_Negocio\obj\Debug\Capa_Negocio.pdb
+E:\C#\Practica_Semana03\Capa_Negocio\bin\Debug\Capa_Negocio.dll
+E:\C#\Practica_Semana03\Capa_Negocio\bin\Debug\Capa_Negocio.pdb
+E:\C#\Practica_Semana03\Capa_Negocio\bin\Debug\Capa_Datos.dll
+E:\C#\Practica_Semana03\Capa_Negocio\bin\Debug\Capa_Entidades.dll
+E:\C#\Practica_Semana03\Capa_Negocio\bin\Debug\Capa_Datos.pdb
+E:\C#\Practica_Semana03\Capa_Negocio\bin\Debug\Capa_Entidades.pdb
+E:\C#\Practica_Semana03\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.AssemblyReference.cache
+E:\C#\Practica_Semana03\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.CoreCompileInputs.cache
+E:\C#\Practica_Semana03\Capa_Negocio\obj\Debug\Capa_Neg.64FC8661.Up2Date
+E:\C#\Practica_Semana03\Capa_Negocio\obj\Debug\Capa_Negocio.dll
+E:\C#\Practica_Semana03\Capa_Negocio\obj\Debug\Capa_Negocio.pdb
+C:\Users\PC02\Desktop\C#\Practica_Semana03\Capa_Negocio\bin\Debug\Capa_Negocio.dll
+C:\Users\PC02\Desktop\C#\Practica_Semana03\Capa_Negocio\bin\Debug\Capa_Negocio.pdb
+C:\Users\PC02\Desktop\C#\Practica_Semana03\Capa_Negocio\bin\Debug\Capa_Datos.dll
+C:\Users\PC02\Desktop\C#\Practica_Semana03\Capa_Negocio\bin\Debug\Capa_Entidades.dll
+C:\Users\PC02\Desktop\C#\Practica_Semana03\Capa_Negocio\bin\Debug\Capa_Datos.pdb
+C:\Users\PC02\Desktop\C#\Practica_Semana03\Capa_Negocio\bin\Debug\Capa_Entidades.pdb
+C:\Users\PC02\Desktop\C#\Practica_Semana03\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.AssemblyReference.cache
+C:\Users\PC02\Desktop\C#\Practica_Semana03\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.CoreCompileInputs.cache
+C:\Users\PC02\Desktop\C#\Practica_Semana03\Capa_Negocio\obj\Debug\Capa_Neg.64FC8661.Up2Date
+C:\Users\PC02\Desktop\C#\Practica_Semana03\Capa_Negocio\obj\Debug\Capa_Negocio.dll
+C:\Users\PC02\Desktop\C#\Practica_Semana03\Capa_Negocio\obj\Debug\Capa_Negocio.pdb
+C:\Users\Luis\Desktop\Luis\Ejercicios\C# IV\C#\Practica_Semana03\Capa_Negocio\bin\Debug\Capa_Negocio.dll
+C:\Users\Luis\Desktop\Luis\Ejercicios\C# IV\C#\Practica_Semana03\Capa_Negocio\bin\Debug\Capa_Negocio.pdb
+C:\Users\Luis\Desktop\Luis\Ejercicios\C# IV\C#\Practica_Semana03\Capa_Negocio\bin\Debug\Capa_Datos.dll
+C:\Users\Luis\Desktop\Luis\Ejercicios\C# IV\C#\Practica_Semana03\Capa_Negocio\bin\Debug\Capa_Entidades.dll
+C:\Users\Luis\Desktop\Luis\Ejercicios\C# IV\C#\Practica_Semana03\Capa_Negocio\bin\Debug\Capa_Datos.pdb
+C:\Users\Luis\Desktop\Luis\Ejercicios\C# IV\C#\Practica_Semana03\Capa_Negocio\bin\Debug\Capa_Entidades.pdb
+C:\Users\Luis\Desktop\Luis\Ejercicios\C# IV\C#\Practica_Semana03\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.AssemblyReference.cache
+C:\Users\Luis\Desktop\Luis\Ejercicios\C# IV\C#\Practica_Semana03\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Luis\Desktop\Luis\Ejercicios\C# IV\C#\Practica_Semana03\Capa_Negocio\obj\Debug\Capa_Neg.64FC8661.Up2Date
+C:\Users\Luis\Desktop\Luis\Ejercicios\C# IV\C#\Practica_Semana03\Capa_Negocio\obj\Debug\Capa_Negocio.dll
+C:\Users\Luis\Desktop\Luis\Ejercicios\C# IV\C#\Practica_Semana03\Capa_Negocio\obj\Debug\Capa_Negocio.pdb
+E:\C# IV\C#\Practica_Semana03\Capa_Negocio\bin\Debug\Capa_Negocio.dll
+E:\C# IV\C#\Practica_Semana03\Capa_Negocio\bin\Debug\Capa_Negocio.pdb
+E:\C# IV\C#\Practica_Semana03\Capa_Negocio\bin\Debug\Capa_Datos.dll
+E:\C# IV\C#\Practica_Semana03\Capa_Negocio\bin\Debug\Capa_Entidades.dll
+E:\C# IV\C#\Practica_Semana03\Capa_Negocio\bin\Debug\Capa_Datos.pdb
+E:\C# IV\C#\Practica_Semana03\Capa_Negocio\bin\Debug\Capa_Entidades.pdb
+E:\C# IV\C#\Practica_Semana03\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.AssemblyReference.cache
+E:\C# IV\C#\Practica_Semana03\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.CoreCompileInputs.cache
+E:\C# IV\C#\Practica_Semana03\Capa_Negocio\obj\Debug\Capa_Neg.64FC8661.Up2Date
+E:\C# IV\C#\Practica_Semana03\Capa_Negocio\obj\Debug\Capa_Negocio.dll
+E:\C# IV\C#\Practica_Semana03\Capa_Negocio\obj\Debug\Capa_Negocio.pdb
+F:\C# IV\C#\Practica_Semana03\Capa_Negocio\bin\Debug\Capa_Negocio.dll
+F:\C# IV\C#\Practica_Semana03\Capa_Negocio\bin\Debug\Capa_Negocio.pdb
+F:\C# IV\C#\Practica_Semana03\Capa_Negocio\bin\Debug\Capa_Datos.dll
+F:\C# IV\C#\Practica_Semana03\Capa_Negocio\bin\Debug\Capa_Entidades.dll
+F:\C# IV\C#\Practica_Semana03\Capa_Negocio\bin\Debug\Capa_Datos.pdb
+F:\C# IV\C#\Practica_Semana03\Capa_Negocio\bin\Debug\Capa_Entidades.pdb
+F:\C# IV\C#\Practica_Semana03\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.AssemblyReference.cache
+F:\C# IV\C#\Practica_Semana03\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.CoreCompileInputs.cache
+F:\C# IV\C#\Practica_Semana03\Capa_Negocio\obj\Debug\Capa_Neg.64FC8661.Up2Date
+F:\C# IV\C#\Practica_Semana03\Capa_Negocio\obj\Debug\Capa_Negocio.dll
+F:\C# IV\C#\Practica_Semana03\Capa_Negocio\obj\Debug\Capa_Negocio.pdb
+C:\Users\Luis\Desktop\Luis\Tareas\2024\C# (13-10-2024)\Practica_Semana03\Capa_Negocio\bin\Debug\Capa_Negocio.dll
+C:\Users\Luis\Desktop\Luis\Tareas\2024\C# (13-10-2024)\Practica_Semana03\Capa_Negocio\bin\Debug\Capa_Negocio.pdb
+C:\Users\Luis\Desktop\Luis\Tareas\2024\C# (13-10-2024)\Practica_Semana03\Capa_Negocio\bin\Debug\Capa_Datos.dll
+C:\Users\Luis\Desktop\Luis\Tareas\2024\C# (13-10-2024)\Practica_Semana03\Capa_Negocio\bin\Debug\Capa_Entidades.dll
+C:\Users\Luis\Desktop\Luis\Tareas\2024\C# (13-10-2024)\Practica_Semana03\Capa_Negocio\bin\Debug\Capa_Datos.pdb
+C:\Users\Luis\Desktop\Luis\Tareas\2024\C# (13-10-2024)\Practica_Semana03\Capa_Negocio\bin\Debug\Capa_Entidades.pdb
+C:\Users\Luis\Desktop\Luis\Tareas\2024\C# (13-10-2024)\Practica_Semana03\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.AssemblyReference.cache
+C:\Users\Luis\Desktop\Luis\Tareas\2024\C# (13-10-2024)\Practica_Semana03\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Luis\Desktop\Luis\Tareas\2024\C# (13-10-2024)\Practica_Semana03\Capa_Negocio\obj\Debug\Capa_Neg.64FC8661.Up2Date
+C:\Users\Luis\Desktop\Luis\Tareas\2024\C# (13-10-2024)\Practica_Semana03\Capa_Negocio\obj\Debug\Capa_Negocio.dll
+C:\Users\Luis\Desktop\Luis\Tareas\2024\C# (13-10-2024)\Practica_Semana03\Capa_Negocio\obj\Debug\Capa_Negocio.pdb
