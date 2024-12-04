@@ -1,0 +1,160 @@
+C:\Users\PC02\source\repos\Practica_Semana03\Capa_Presentacion\bin\Debug\Capa_Presentacion.dll
+C:\Users\PC02\source\repos\Practica_Semana03\Capa_Presentacion\bin\Debug\Capa_Presentacion.pdb
+C:\Users\PC02\source\repos\Practica_Semana03\Capa_Presentacion\bin\Debug\Capa_Entidades.dll
+C:\Users\PC02\source\repos\Practica_Semana03\Capa_Presentacion\bin\Debug\Capa_Negocio.dll
+C:\Users\PC02\source\repos\Practica_Semana03\Capa_Presentacion\bin\Debug\Capa_Datos.dll
+C:\Users\PC02\source\repos\Practica_Semana03\Capa_Presentacion\bin\Debug\Capa_Entidades.pdb
+C:\Users\PC02\source\repos\Practica_Semana03\Capa_Presentacion\bin\Debug\Capa_Negocio.pdb
+C:\Users\PC02\source\repos\Practica_Semana03\Capa_Presentacion\bin\Debug\Capa_Datos.pdb
+C:\Users\PC02\source\repos\Practica_Semana03\Capa_Presentacion\obj\Debug\Capa_Presentacion.csproj.AssemblyReference.cache
+C:\Users\PC02\source\repos\Practica_Semana03\Capa_Presentacion\obj\Debug\Capa_Presentacion.Login.resources
+C:\Users\PC02\source\repos\Practica_Semana03\Capa_Presentacion\obj\Debug\Capa_Presentacion.csproj.GenerateResource.cache
+C:\Users\PC02\source\repos\Practica_Semana03\Capa_Presentacion\obj\Debug\Capa_Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\PC02\source\repos\Practica_Semana03\Capa_Presentacion\obj\Debug\Capa_Pre.6F14CCC0.Up2Date
+C:\Users\PC02\source\repos\Practica_Semana03\Capa_Presentacion\obj\Debug\Capa_Presentacion.dll
+C:\Users\PC02\source\repos\Practica_Semana03\Capa_Presentacion\obj\Debug\Capa_Presentacion.pdb
+C:\Users\PC02\source\repos\Practica_Semana03\Capa_Presentacion\obj\Debug\Capa_Presentacion.Principal.resources
+C:\Users\PC02\Desktop\Practica_Semana03\Capa_Presentacion\bin\Debug\Capa_Presentacion.dll
+C:\Users\PC02\Desktop\Practica_Semana03\Capa_Presentacion\bin\Debug\Capa_Presentacion.pdb
+C:\Users\PC02\Desktop\Practica_Semana03\Capa_Presentacion\bin\Debug\Capa_Entidades.dll
+C:\Users\PC02\Desktop\Practica_Semana03\Capa_Presentacion\bin\Debug\Capa_Negocio.dll
+C:\Users\PC02\Desktop\Practica_Semana03\Capa_Presentacion\bin\Debug\Capa_Datos.dll
+C:\Users\PC02\Desktop\Practica_Semana03\Capa_Presentacion\bin\Debug\Capa_Entidades.pdb
+C:\Users\PC02\Desktop\Practica_Semana03\Capa_Presentacion\bin\Debug\Capa_Negocio.pdb
+C:\Users\PC02\Desktop\Practica_Semana03\Capa_Presentacion\bin\Debug\Capa_Datos.pdb
+C:\Users\PC02\Desktop\Practica_Semana03\Capa_Presentacion\obj\Debug\Capa_Presentacion.csproj.AssemblyReference.cache
+C:\Users\PC02\Desktop\Practica_Semana03\Capa_Presentacion\obj\Debug\Capa_Presentacion.Login.resources
+C:\Users\PC02\Desktop\Practica_Semana03\Capa_Presentacion\obj\Debug\Capa_Presentacion.Principal.resources
+C:\Users\PC02\Desktop\Practica_Semana03\Capa_Presentacion\obj\Debug\Capa_Presentacion.csproj.GenerateResource.cache
+C:\Users\PC02\Desktop\Practica_Semana03\Capa_Presentacion\obj\Debug\Capa_Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\PC02\Desktop\Practica_Semana03\Capa_Presentacion\obj\Debug\Capa_Pre.6F14CCC0.Up2Date
+C:\Users\PC02\Desktop\Practica_Semana03\Capa_Presentacion\obj\Debug\Capa_Presentacion.dll
+C:\Users\PC02\Desktop\Practica_Semana03\Capa_Presentacion\obj\Debug\Capa_Presentacion.pdb
+E:\C#\Practica_Semana03\Capa_Presentacion\bin\Debug\Capa_Presentacion.dll
+E:\C#\Practica_Semana03\Capa_Presentacion\bin\Debug\Capa_Presentacion.pdb
+E:\C#\Practica_Semana03\Capa_Presentacion\bin\Debug\Capa_Entidades.dll
+E:\C#\Practica_Semana03\Capa_Presentacion\bin\Debug\Capa_Negocio.dll
+E:\C#\Practica_Semana03\Capa_Presentacion\bin\Debug\Capa_Datos.dll
+E:\C#\Practica_Semana03\Capa_Presentacion\bin\Debug\Capa_Entidades.pdb
+E:\C#\Practica_Semana03\Capa_Presentacion\bin\Debug\Capa_Negocio.pdb
+E:\C#\Practica_Semana03\Capa_Presentacion\bin\Debug\Capa_Datos.pdb
+E:\C#\Practica_Semana03\Capa_Presentacion\obj\Debug\Capa_Presentacion.csproj.AssemblyReference.cache
+E:\C#\Practica_Semana03\Capa_Presentacion\obj\Debug\Capa_Presentacion.Login.resources
+E:\C#\Practica_Semana03\Capa_Presentacion\obj\Debug\Capa_Presentacion.Principal.resources
+E:\C#\Practica_Semana03\Capa_Presentacion\obj\Debug\Capa_Presentacion.csproj.GenerateResource.cache
+E:\C#\Practica_Semana03\Capa_Presentacion\obj\Debug\Capa_Presentacion.csproj.CoreCompileInputs.cache
+E:\C#\Practica_Semana03\Capa_Presentacion\obj\Debug\Capa_Pre.6F14CCC0.Up2Date
+E:\C#\Practica_Semana03\Capa_Presentacion\obj\Debug\Capa_Presentacion.dll
+E:\C#\Practica_Semana03\Capa_Presentacion\obj\Debug\Capa_Presentacion.pdb
+C:\Users\PC02\Desktop\C#\Practica_Semana03\Capa_Presentacion\bin\Debug\Capa_Presentacion.dll
+C:\Users\PC02\Desktop\C#\Practica_Semana03\Capa_Presentacion\bin\Debug\Capa_Presentacion.pdb
+C:\Users\PC02\Desktop\C#\Practica_Semana03\Capa_Presentacion\bin\Debug\Capa_Entidades.dll
+C:\Users\PC02\Desktop\C#\Practica_Semana03\Capa_Presentacion\bin\Debug\Capa_Negocio.dll
+C:\Users\PC02\Desktop\C#\Practica_Semana03\Capa_Presentacion\bin\Debug\Capa_Datos.dll
+C:\Users\PC02\Desktop\C#\Practica_Semana03\Capa_Presentacion\bin\Debug\Capa_Entidades.pdb
+C:\Users\PC02\Desktop\C#\Practica_Semana03\Capa_Presentacion\bin\Debug\Capa_Negocio.pdb
+C:\Users\PC02\Desktop\C#\Practica_Semana03\Capa_Presentacion\bin\Debug\Capa_Datos.pdb
+C:\Users\PC02\Desktop\C#\Practica_Semana03\Capa_Presentacion\obj\Debug\Capa_Presentacion.csproj.AssemblyReference.cache
+C:\Users\PC02\Desktop\C#\Practica_Semana03\Capa_Presentacion\obj\Debug\Capa_Presentacion.Login.resources
+C:\Users\PC02\Desktop\C#\Practica_Semana03\Capa_Presentacion\obj\Debug\Capa_Presentacion.Principal.resources
+C:\Users\PC02\Desktop\C#\Practica_Semana03\Capa_Presentacion\obj\Debug\Capa_Presentacion.csproj.GenerateResource.cache
+C:\Users\PC02\Desktop\C#\Practica_Semana03\Capa_Presentacion\obj\Debug\Capa_Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\PC02\Desktop\C#\Practica_Semana03\Capa_Presentacion\obj\Debug\Capa_Pre.6F14CCC0.Up2Date
+C:\Users\PC02\Desktop\C#\Practica_Semana03\Capa_Presentacion\obj\Debug\Capa_Presentacion.dll
+C:\Users\PC02\Desktop\C#\Practica_Semana03\Capa_Presentacion\obj\Debug\Capa_Presentacion.pdb
+C:\Users\Luis\Desktop\Luis\Ejercicios\C# IV\C#\Practica_Semana03\Capa_Presentacion\bin\Debug\Capa_Presentacion.dll
+C:\Users\Luis\Desktop\Luis\Ejercicios\C# IV\C#\Practica_Semana03\Capa_Presentacion\bin\Debug\Capa_Presentacion.pdb
+C:\Users\Luis\Desktop\Luis\Ejercicios\C# IV\C#\Practica_Semana03\Capa_Presentacion\bin\Debug\Capa_Entidades.dll
+C:\Users\Luis\Desktop\Luis\Ejercicios\C# IV\C#\Practica_Semana03\Capa_Presentacion\bin\Debug\Capa_Negocio.dll
+C:\Users\Luis\Desktop\Luis\Ejercicios\C# IV\C#\Practica_Semana03\Capa_Presentacion\bin\Debug\Capa_Datos.dll
+C:\Users\Luis\Desktop\Luis\Ejercicios\C# IV\C#\Practica_Semana03\Capa_Presentacion\bin\Debug\Capa_Entidades.pdb
+C:\Users\Luis\Desktop\Luis\Ejercicios\C# IV\C#\Practica_Semana03\Capa_Presentacion\bin\Debug\Capa_Negocio.pdb
+C:\Users\Luis\Desktop\Luis\Ejercicios\C# IV\C#\Practica_Semana03\Capa_Presentacion\bin\Debug\Capa_Datos.pdb
+C:\Users\Luis\Desktop\Luis\Ejercicios\C# IV\C#\Practica_Semana03\Capa_Presentacion\obj\Debug\Capa_Presentacion.csproj.AssemblyReference.cache
+C:\Users\Luis\Desktop\Luis\Ejercicios\C# IV\C#\Practica_Semana03\Capa_Presentacion\obj\Debug\Capa_Presentacion.Login.resources
+C:\Users\Luis\Desktop\Luis\Ejercicios\C# IV\C#\Practica_Semana03\Capa_Presentacion\obj\Debug\Capa_Presentacion.Principal.resources
+C:\Users\Luis\Desktop\Luis\Ejercicios\C# IV\C#\Practica_Semana03\Capa_Presentacion\obj\Debug\Capa_Presentacion.csproj.GenerateResource.cache
+C:\Users\Luis\Desktop\Luis\Ejercicios\C# IV\C#\Practica_Semana03\Capa_Presentacion\obj\Debug\Capa_Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Luis\Desktop\Luis\Ejercicios\C# IV\C#\Practica_Semana03\Capa_Presentacion\obj\Debug\Capa_Pre.6F14CCC0.Up2Date
+C:\Users\Luis\Desktop\Luis\Ejercicios\C# IV\C#\Practica_Semana03\Capa_Presentacion\obj\Debug\Capa_Presentacion.dll
+C:\Users\Luis\Desktop\Luis\Ejercicios\C# IV\C#\Practica_Semana03\Capa_Presentacion\obj\Debug\Capa_Presentacion.pdb
+C:\Users\Luis\Desktop\Luis\Ejercicios\C# IV\C#\Practica_Semana03\Capa_Presentacion\obj\Debug\Capa_Presentacion.Administrador.resources
+C:\Users\Luis\Desktop\Luis\Ejercicios\C# IV\C#\Practica_Semana03\Capa_Presentacion\obj\Debug\Capa_Presentacion.Prestamo.resources
+C:\Users\Luis\Desktop\Luis\Ejercicios\C# IV\C#\Practica_Semana03\Capa_Presentacion\obj\Debug\Capa_Presentacion.Properties.Resources.resources
+C:\Users\Luis\Desktop\Luis\Ejercicios\C# IV\C#\Practica_Semana03\Capa_Presentacion\obj\Debug\Capa_Presentacion.FrmUsuario.resources
+E:\C# IV\C#\Practica_Semana03\Capa_Presentacion\bin\Debug\Capa_Presentacion.dll
+E:\C# IV\C#\Practica_Semana03\Capa_Presentacion\bin\Debug\Capa_Presentacion.pdb
+E:\C# IV\C#\Practica_Semana03\Capa_Presentacion\bin\Debug\Capa_Entidades.dll
+E:\C# IV\C#\Practica_Semana03\Capa_Presentacion\bin\Debug\Capa_Negocio.dll
+E:\C# IV\C#\Practica_Semana03\Capa_Presentacion\bin\Debug\Capa_Datos.dll
+E:\C# IV\C#\Practica_Semana03\Capa_Presentacion\bin\Debug\Capa_Entidades.pdb
+E:\C# IV\C#\Practica_Semana03\Capa_Presentacion\bin\Debug\Capa_Negocio.pdb
+E:\C# IV\C#\Practica_Semana03\Capa_Presentacion\bin\Debug\Capa_Datos.pdb
+E:\C# IV\C#\Practica_Semana03\Capa_Presentacion\obj\Debug\Capa_Presentacion.csproj.AssemblyReference.cache
+E:\C# IV\C#\Practica_Semana03\Capa_Presentacion\obj\Debug\Capa_Presentacion.Administrador.resources
+E:\C# IV\C#\Practica_Semana03\Capa_Presentacion\obj\Debug\Capa_Presentacion.FrmUsuario.resources
+E:\C# IV\C#\Practica_Semana03\Capa_Presentacion\obj\Debug\Capa_Presentacion.Login.resources
+E:\C# IV\C#\Practica_Semana03\Capa_Presentacion\obj\Debug\Capa_Presentacion.Principal.resources
+E:\C# IV\C#\Practica_Semana03\Capa_Presentacion\obj\Debug\Capa_Presentacion.Properties.Resources.resources
+E:\C# IV\C#\Practica_Semana03\Capa_Presentacion\obj\Debug\Capa_Presentacion.csproj.GenerateResource.cache
+E:\C# IV\C#\Practica_Semana03\Capa_Presentacion\obj\Debug\Capa_Presentacion.csproj.CoreCompileInputs.cache
+E:\C# IV\C#\Practica_Semana03\Capa_Presentacion\obj\Debug\Capa_Pre.6F14CCC0.Up2Date
+E:\C# IV\C#\Practica_Semana03\Capa_Presentacion\obj\Debug\Capa_Presentacion.dll
+E:\C# IV\C#\Practica_Semana03\Capa_Presentacion\obj\Debug\Capa_Presentacion.pdb
+E:\C# IV\C#\Practica_Semana03\Capa_Presentacion\obj\Debug\Capa_Presentacion.FrmProveedor.resources
+E:\C# IV\C#\Practica_Semana03\Capa_Presentacion\obj\Debug\Capa_Presentacion.FrmInicioAdmin.resources
+F:\C# IV\C#\Practica_Semana03\Capa_Presentacion\bin\Debug\Capa_Presentacion.dll
+F:\C# IV\C#\Practica_Semana03\Capa_Presentacion\bin\Debug\Capa_Presentacion.pdb
+F:\C# IV\C#\Practica_Semana03\Capa_Presentacion\bin\Debug\Capa_Entidades.dll
+F:\C# IV\C#\Practica_Semana03\Capa_Presentacion\bin\Debug\Capa_Negocio.dll
+F:\C# IV\C#\Practica_Semana03\Capa_Presentacion\bin\Debug\Capa_Datos.dll
+F:\C# IV\C#\Practica_Semana03\Capa_Presentacion\bin\Debug\Capa_Entidades.pdb
+F:\C# IV\C#\Practica_Semana03\Capa_Presentacion\bin\Debug\Capa_Negocio.pdb
+F:\C# IV\C#\Practica_Semana03\Capa_Presentacion\bin\Debug\Capa_Datos.pdb
+F:\C# IV\C#\Practica_Semana03\Capa_Presentacion\obj\Debug\Capa_Presentacion.csproj.AssemblyReference.cache
+F:\C# IV\C#\Practica_Semana03\Capa_Presentacion\obj\Debug\Capa_Presentacion.Administrador.resources
+F:\C# IV\C#\Practica_Semana03\Capa_Presentacion\obj\Debug\Capa_Presentacion.FrmInicioAdmin.resources
+F:\C# IV\C#\Practica_Semana03\Capa_Presentacion\obj\Debug\Capa_Presentacion.FrmProveedor.resources
+F:\C# IV\C#\Practica_Semana03\Capa_Presentacion\obj\Debug\Capa_Presentacion.FrmUsuario.resources
+F:\C# IV\C#\Practica_Semana03\Capa_Presentacion\obj\Debug\Capa_Presentacion.Login.resources
+F:\C# IV\C#\Practica_Semana03\Capa_Presentacion\obj\Debug\Capa_Presentacion.Principal.resources
+F:\C# IV\C#\Practica_Semana03\Capa_Presentacion\obj\Debug\Capa_Presentacion.Properties.Resources.resources
+F:\C# IV\C#\Practica_Semana03\Capa_Presentacion\obj\Debug\Capa_Presentacion.csproj.GenerateResource.cache
+F:\C# IV\C#\Practica_Semana03\Capa_Presentacion\obj\Debug\Capa_Presentacion.csproj.CoreCompileInputs.cache
+F:\C# IV\C#\Practica_Semana03\Capa_Presentacion\obj\Debug\Capa_Pre.6F14CCC0.Up2Date
+F:\C# IV\C#\Practica_Semana03\Capa_Presentacion\obj\Debug\Capa_Presentacion.dll
+F:\C# IV\C#\Practica_Semana03\Capa_Presentacion\obj\Debug\Capa_Presentacion.pdb
+F:\C# IV\C#\Practica_Semana03\Capa_Presentacion\obj\Debug\Capa_Presentacion.FrmPrestamo.resources
+F:\C# IV\C#\Practica_Semana03\Capa_Presentacion\obj\Debug\Capa_Presentacion.FrmLibros.resources
+E:\C# IV\C#\Practica_Semana03\Capa_Presentacion\obj\Debug\Capa_Presentacion.FrmLibros.resources
+E:\C# IV\C#\Practica_Semana03\Capa_Presentacion\obj\Debug\Capa_Presentacion.FrmPrestamo.resources
+E:\C# IV\C#\Practica_Semana03\Capa_Presentacion\obj\Debug\Capa_Presentacion.FrmEstudiantes.resources
+E:\C# IV\C#\Practica_Semana03\Capa_Presentacion\obj\Debug\Capa_Presentacion.FrmMultas.resources
+F:\C# IV\C#\Practica_Semana03\Capa_Presentacion\obj\Debug\Capa_Presentacion.FrmEstudiantes.resources
+F:\C# IV\C#\Practica_Semana03\Capa_Presentacion\obj\Debug\Capa_Presentacion.FrmMultas.resources
+C:\Users\Luis\Desktop\Luis\Tareas\2024\C# (13-10-2024)\Practica_Semana03\Capa_Presentacion\bin\Debug\Capa_Presentacion.dll
+C:\Users\Luis\Desktop\Luis\Tareas\2024\C# (13-10-2024)\Practica_Semana03\Capa_Presentacion\bin\Debug\Capa_Presentacion.pdb
+C:\Users\Luis\Desktop\Luis\Tareas\2024\C# (13-10-2024)\Practica_Semana03\Capa_Presentacion\bin\Debug\Capa_Datos.dll
+C:\Users\Luis\Desktop\Luis\Tareas\2024\C# (13-10-2024)\Practica_Semana03\Capa_Presentacion\bin\Debug\Capa_Entidades.dll
+C:\Users\Luis\Desktop\Luis\Tareas\2024\C# (13-10-2024)\Practica_Semana03\Capa_Presentacion\bin\Debug\Capa_Negocio.dll
+C:\Users\Luis\Desktop\Luis\Tareas\2024\C# (13-10-2024)\Practica_Semana03\Capa_Presentacion\bin\Debug\Capa_Datos.pdb
+C:\Users\Luis\Desktop\Luis\Tareas\2024\C# (13-10-2024)\Practica_Semana03\Capa_Presentacion\bin\Debug\Capa_Entidades.pdb
+C:\Users\Luis\Desktop\Luis\Tareas\2024\C# (13-10-2024)\Practica_Semana03\Capa_Presentacion\bin\Debug\Capa_Negocio.pdb
+C:\Users\Luis\Desktop\Luis\Tareas\2024\C# (13-10-2024)\Practica_Semana03\Capa_Presentacion\obj\Debug\Capa_Presentacion.csproj.AssemblyReference.cache
+C:\Users\Luis\Desktop\Luis\Tareas\2024\C# (13-10-2024)\Practica_Semana03\Capa_Presentacion\obj\Debug\Capa_Presentacion.Administrador.resources
+C:\Users\Luis\Desktop\Luis\Tareas\2024\C# (13-10-2024)\Practica_Semana03\Capa_Presentacion\obj\Debug\Capa_Presentacion.FrmEstudiantes.resources
+C:\Users\Luis\Desktop\Luis\Tareas\2024\C# (13-10-2024)\Practica_Semana03\Capa_Presentacion\obj\Debug\Capa_Presentacion.FrmInicioAdmin.resources
+C:\Users\Luis\Desktop\Luis\Tareas\2024\C# (13-10-2024)\Practica_Semana03\Capa_Presentacion\obj\Debug\Capa_Presentacion.FrmLibros.resources
+C:\Users\Luis\Desktop\Luis\Tareas\2024\C# (13-10-2024)\Practica_Semana03\Capa_Presentacion\obj\Debug\Capa_Presentacion.FrmMultas.resources
+C:\Users\Luis\Desktop\Luis\Tareas\2024\C# (13-10-2024)\Practica_Semana03\Capa_Presentacion\obj\Debug\Capa_Presentacion.FrmProveedor.resources
+C:\Users\Luis\Desktop\Luis\Tareas\2024\C# (13-10-2024)\Practica_Semana03\Capa_Presentacion\obj\Debug\Capa_Presentacion.FrmUsuario.resources
+C:\Users\Luis\Desktop\Luis\Tareas\2024\C# (13-10-2024)\Practica_Semana03\Capa_Presentacion\obj\Debug\Capa_Presentacion.Login.resources
+C:\Users\Luis\Desktop\Luis\Tareas\2024\C# (13-10-2024)\Practica_Semana03\Capa_Presentacion\obj\Debug\Capa_Presentacion.FrmPrestamo.resources
+C:\Users\Luis\Desktop\Luis\Tareas\2024\C# (13-10-2024)\Practica_Semana03\Capa_Presentacion\obj\Debug\Capa_Presentacion.Principal.resources
+C:\Users\Luis\Desktop\Luis\Tareas\2024\C# (13-10-2024)\Practica_Semana03\Capa_Presentacion\obj\Debug\Capa_Presentacion.Properties.Resources.resources
+C:\Users\Luis\Desktop\Luis\Tareas\2024\C# (13-10-2024)\Practica_Semana03\Capa_Presentacion\obj\Debug\Capa_Presentacion.csproj.GenerateResource.cache
+C:\Users\Luis\Desktop\Luis\Tareas\2024\C# (13-10-2024)\Practica_Semana03\Capa_Presentacion\obj\Debug\Capa_Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Luis\Desktop\Luis\Tareas\2024\C# (13-10-2024)\Practica_Semana03\Capa_Presentacion\obj\Debug\Capa_Pre.6F14CCC0.Up2Date
+C:\Users\Luis\Desktop\Luis\Tareas\2024\C# (13-10-2024)\Practica_Semana03\Capa_Presentacion\obj\Debug\Capa_Presentacion.dll
+C:\Users\Luis\Desktop\Luis\Tareas\2024\C# (13-10-2024)\Practica_Semana03\Capa_Presentacion\obj\Debug\Capa_Presentacion.pdb
+C:\Users\Luis\Desktop\Luis\Tareas\2024\C# (13-10-2024)\Practica_Semana03\Capa_Presentacion\obj\Debug\Capa_Presentacion.FrmAgregarCopias.resources
