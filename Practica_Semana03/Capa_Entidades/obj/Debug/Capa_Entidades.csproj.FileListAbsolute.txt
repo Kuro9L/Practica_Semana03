@@ -1,0 +1,30 @@
+C:\Users\PC02\source\repos\Practica_Semana03\Capa_Entidades\bin\Debug\Capa_Entidades.dll
+C:\Users\PC02\source\repos\Practica_Semana03\Capa_Entidades\bin\Debug\Capa_Entidades.pdb
+C:\Users\PC02\source\repos\Practica_Semana03\Capa_Entidades\obj\Debug\Capa_Entidades.csproj.AssemblyReference.cache
+C:\Users\PC02\source\repos\Practica_Semana03\Capa_Entidades\obj\Debug\Capa_Entidades.csproj.CoreCompileInputs.cache
+C:\Users\PC02\source\repos\Practica_Semana03\Capa_Entidades\obj\Debug\Capa_Entidades.dll
+C:\Users\PC02\source\repos\Practica_Semana03\Capa_Entidades\obj\Debug\Capa_Entidades.pdb
+C:\Users\Luis\Desktop\Luis\Ejercicios\C# IV\C#\Practica_Semana03\Capa_Entidades\bin\Debug\Capa_Entidades.dll
+C:\Users\Luis\Desktop\Luis\Ejercicios\C# IV\C#\Practica_Semana03\Capa_Entidades\bin\Debug\Capa_Entidades.pdb
+C:\Users\Luis\Desktop\Luis\Ejercicios\C# IV\C#\Practica_Semana03\Capa_Entidades\obj\Debug\Capa_Entidades.csproj.AssemblyReference.cache
+C:\Users\Luis\Desktop\Luis\Ejercicios\C# IV\C#\Practica_Semana03\Capa_Entidades\obj\Debug\Capa_Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Luis\Desktop\Luis\Ejercicios\C# IV\C#\Practica_Semana03\Capa_Entidades\obj\Debug\Capa_Entidades.dll
+C:\Users\Luis\Desktop\Luis\Ejercicios\C# IV\C#\Practica_Semana03\Capa_Entidades\obj\Debug\Capa_Entidades.pdb
+F:\C# IV\C#\Practica_Semana03\Capa_Entidades\bin\Debug\Capa_Entidades.dll
+F:\C# IV\C#\Practica_Semana03\Capa_Entidades\bin\Debug\Capa_Entidades.pdb
+F:\C# IV\C#\Practica_Semana03\Capa_Entidades\obj\Debug\Capa_Entidades.csproj.AssemblyReference.cache
+F:\C# IV\C#\Practica_Semana03\Capa_Entidades\obj\Debug\Capa_Entidades.csproj.CoreCompileInputs.cache
+F:\C# IV\C#\Practica_Semana03\Capa_Entidades\obj\Debug\Capa_Entidades.dll
+F:\C# IV\C#\Practica_Semana03\Capa_Entidades\obj\Debug\Capa_Entidades.pdb
+E:\C# IV\C#\Practica_Semana03\Capa_Entidades\bin\Debug\Capa_Entidades.dll
+E:\C# IV\C#\Practica_Semana03\Capa_Entidades\bin\Debug\Capa_Entidades.pdb
+E:\C# IV\C#\Practica_Semana03\Capa_Entidades\obj\Debug\Capa_Entidades.csproj.AssemblyReference.cache
+E:\C# IV\C#\Practica_Semana03\Capa_Entidades\obj\Debug\Capa_Entidades.csproj.CoreCompileInputs.cache
+E:\C# IV\C#\Practica_Semana03\Capa_Entidades\obj\Debug\Capa_Entidades.dll
+E:\C# IV\C#\Practica_Semana03\Capa_Entidades\obj\Debug\Capa_Entidades.pdb
+C:\Users\Luis\Desktop\Luis\Tareas\2024\C# (13-10-2024)\Practica_Semana03\Capa_Entidades\bin\Debug\Capa_Entidades.dll
+C:\Users\Luis\Desktop\Luis\Tareas\2024\C# (13-10-2024)\Practica_Semana03\Capa_Entidades\bin\Debug\Capa_Entidades.pdb
+C:\Users\Luis\Desktop\Luis\Tareas\2024\C# (13-10-2024)\Practica_Semana03\Capa_Entidades\obj\Debug\Capa_Entidades.csproj.AssemblyReference.cache
+C:\Users\Luis\Desktop\Luis\Tareas\2024\C# (13-10-2024)\Practica_Semana03\Capa_Entidades\obj\Debug\Capa_Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Luis\Desktop\Luis\Tareas\2024\C# (13-10-2024)\Practica_Semana03\Capa_Entidades\obj\Debug\Capa_Entidades.dll
+C:\Users\Luis\Desktop\Luis\Tareas\2024\C# (13-10-2024)\Practica_Semana03\Capa_Entidades\obj\Debug\Capa_Entidades.pdb
